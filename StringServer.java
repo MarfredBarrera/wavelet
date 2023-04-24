@@ -16,7 +16,6 @@ class Handler implements URLHandler {
             return String.format(str);
 
         } 
-
         return "error!";
     }
 }
